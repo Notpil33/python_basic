@@ -1,7 +1,7 @@
-name = input("Ваше имя:")
-age = input("Сколько вам лет:")
-city = input("Из какого вы города:")
-info = input("Ваше увлечение:")
-number = input("Ваш номер телефона:")
+name = input("Ваше имя:\n")
+age = input("Сколько вам лет:\n")
+city = input("Из какого вы города:\n")
+info = input("Ваше увлечение:\n")
+number = input("Ваш номер телефона:\n")
 
 print(name, age, city, info)
